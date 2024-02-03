@@ -1,0 +1,480 @@
+/* header start here */
+#header{
+    color: #7f39cf;
+    width: 1440px;
+    height: 60px;
+
+}
+.header_item{
+    width: Hug (576px);
+    height: Hug (40px);
+    top: 10px;
+    left: 789px;
+    gap: 25px;
+    padding-left: 530px;
+    font-family: Kumbh Sans;
+
+}
+.header_button{
+    background: #20AD96;
+    border-radius: 4px;
+    color: white;
+    font-family: Kumbh Sans;
+}
+/* header end here */
+
+
+/* section 1 start here */
+.section1{
+    background-color: #FAF8F6;
+}
+.para_title{
+    color: #4A556C;
+    font-family: Kumbh Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    padding-left: 30px;
+
+}
+.heading_title{
+    font-family: Kumbh Sans;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 65px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #333461;
+    padding-bottom: 10px;
+    padding-left: 29px;
+
+}
+.para_subtitle{
+    font-family: Kumbh Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+    padding-left: 30px;
+}
+.section1_button{
+    background: #20AD96;
+    border-radius: 4px;
+    color: white;
+    font-family: Kumbh Sans;
+    margin-left: 30px;
+}
+.vector{
+    padding-left: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.women_img{
+    width: 462px;
+    height: 420px;
+    padding-top: 30px;
+    position: absolute;
+    
+
+}
+.topImg1{
+    position: relative;
+    left: -180px;
+    top: -90px;
+}
+/* section 1 end here */
+
+
+/* section 2 start here */
+.section2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section2_heading{
+    color: #333461;
+    font-family: Kumbh Sans;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    padding-top: 10px;
+
+}
+.section2_para{
+    font-family: Kumbh Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;   
+}
+.para{
+    padding-right: 150px;
+    padding-bottom: 10px;
+}
+.section2_row2{
+    width: 1140px;
+    height: 328px;
+}
+.title{
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #041434;
+}
+.subtitle{
+    font-family: Kumbh Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #4A556C;
+}
+/* section 2 end here */
+
+/* section 3 start here */
+.section3{
+    background-color: #FAF8F6;
+    padding-bottom: 100px;
+}
+.section3_heading{
+    font-family: Kumbh Sans;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #333461;
+    /* padding-top: 50px; */
+}
+.section3_row1{
+    padding-top: 60px;
+    width: 80%;
+    padding-bottom: 10px;
+}
+.rating1{
+    width: 360px;
+    height: 360px;
+    top: 1773px;
+    left: 152px;
+    padding: 48px;
+    gap: 15px;
+    background-color: #FFFFFF;
+    margin-right: 20px;
+}
+.rating2{
+    width: 360px;
+    height: 360px;
+    top: 1773px;
+    left: 152px;
+    padding: 48px;
+    gap: 15px;
+    background-color: #FFFFFF;
+    margin-right: 20px;
+}
+.rating3{
+    width: 360px;
+    height: 360px;
+    top: 1773px;
+    left: 152px;
+    padding: 48px;
+    gap: 15px;
+    background-color: #FFFFFF;
+}
+.rating_para{
+    color: #4A556C;
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+.rating_title{
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #333461;
+}
+.rating_img{
+    width: 69px;
+    height: 70px;
+    border-radius: 80px;
+    margin-bottom: 8px;
+
+}
+/* section 3 end here */
+
+
+/* section 4 start here */
+.section4{
+    padding-top: 50px;
+}
+.gallery{
+    width: 600px;
+    margin-left: 250px;
+    padding-bottom: 30px;
+}
+.gallery_heading{
+    font-family: Kumbh Sans;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #333461;
+}
+.gallery_div h5{
+    width: 250px;
+    height: 64px;
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #333461;
+}
+.gallery_div1 h5{
+    width: 280px;
+    height: 64px;
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #333461;
+
+}
+.gallery_div2 h5{
+    width: 280px;
+    height: 64px;
+    font-family: Kumbh Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #333461;
+
+}
+.gallery_para{
+    font-family: Kumbh Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #4A556C;
+ }
+
+/* section 4 end here */
+
+
+/* section 5 start here */
+.section5{
+    padding-top: 30px;
+    padding-bottom: 300px;
+}
+.heading_title{
+    font-family: Kumbh Sans;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #333461;
+
+}
+.para_subtitle{
+    font-family: Kumbh Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+}
+.para_subtitle2{
+    font-family: Kumbh Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+    padding-left: 30px;
+
+}
+.section5_div1{
+    width: 550px;
+    height: 200px;
+    top: 394px;
+    left: 152px;
+
+}
+.section1_button{
+    background: #20AD96;
+    border-radius: 4px;
+    color: white;
+    font-family: Kumbh Sans;
+    margin-left: 30px;
+}
+.women_img2{
+    width: 380px;
+    height: 420px;
+    padding-top: 30px;
+    padding-left: 80px;
+    position: absolute;
+}
+.topImg1_text{
+    background-image: url(../images/Ellipse\ 2.png);
+    width: 96px;
+    height: 96px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 35px;
+    padding-left: 10px;
+    color: white;
+    position: relative;
+    right: -300px;
+}
+
+/* section 5 end here */
+
+
+/* section 6 start here */
+.section6{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: #FAF8F6;
+}
+.section6_img{
+    width: 400px;
+    height: 350px;
+    top: 48px;
+    left: 48px;
+    border-radius: 10px;
+    
+}
+.section6_div1 h1{
+    font-family: Kumbh Sans;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333461;
+    padding-bottom: 5px;
+
+}
+.section6_div1 p{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+    padding-bottom: 8px;
+    
+}
+/* section 6 end here */
+
+
+/* section 7 start here */
+.section7{
+   margin-top: 40px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   background-color: #FAF8F6;
+}
+.section7_div1 h2{
+    font-family: Kumbh Sans;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333461;
+}
+.section7_div1 p{
+    font-family: Kumbh Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+}
+.section7_div2{
+    padding-top: 20px;
+}
+.section7_div2 input{
+    padding: 5px 15px 5px 5px;
+    margin-right: 5px;
+}
+/* section 7 end here */
+
+
+/* section 8 start here */
+.section8{
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+.section8_div1 img{
+    padding-bottom: 15px;
+}
+.section8_div1 p{
+    font-family: Kumbh Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4A556C;
+    width: 260px;
+}
+.section8_div2 p{
+    font-family: Kumbh Sans;
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333461;
+}
+.section8_div2 ul {
+    width: Fill (400px);
+    height: Hug (168px);
+    gap: 18px;
+    padding-left: 0;
+
+}
+.section8_div2 ul li{
+    width: Fill (400px);
+    height: Hug (168px);
+    gap: 12px;
+    list-style: none;
+    color: #333461;
+    font-size: 15px;
+
+}
+
+
+/* section 8 end here */
